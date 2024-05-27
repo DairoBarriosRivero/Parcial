@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "nombre": "Pitbull"
+    },
+    {
+        "id": 2,
+        "nombre": "Chiguagua"
+    },
+    {
+        "id": 3,
+        "nombre": "Rottwailer"
+    },
+    {
+        "id": 4,
+        "nombre": "Doberman"
+    },
+    {
+        "id": 5,
+        "nombre": "Otro"
+    }
+]
